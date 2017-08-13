@@ -1,2 +1,2 @@
 # newsBotClone
-# My first project with Java
+# My 1st project in Java
